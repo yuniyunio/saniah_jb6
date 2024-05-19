@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <title>AulStore</title>
+    <title>HandphoneStore</title>
 </head>
 
 <body>
@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div>
-                    <h1 class="text-center my-4" style="color: #9e1510; font-weight: bolder">AulStore</h1>
+                    <h1 class="text-center my-4" style="color: #9e1510; font-weight: bolder">HandphoneStore</h1>
                     <hr>
                 </div>
                 <div class="card">
